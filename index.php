@@ -9,4 +9,6 @@ echo '<p>Encore une autre ligne dans un paragraphe</p>';
 
 echo '<p>Encore un paragraphe avec <e>un truc en italique</e> pour faire un commit avec la variable qui retourne :'.$var;
 
+$a = "Normalement visible uniquement dans la branche feat.newfile";
+
 ?>
