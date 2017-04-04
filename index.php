@@ -6,4 +6,6 @@ echo '<br />Ajout d\'une ligne supplémentaire';
 
 echo '<p>Encore une autre ligne dans un paragraphe</p>';
 
+echo '<p>Encore un paragraphe avec <e>un truc en italique</e> pour faire un commit';
+
 ?>
